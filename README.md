@@ -1,7 +1,7 @@
 # DVS-Attacks: Adversarial Attacks on Dynamic Vision Sensors for Spiking Neural Networks
 This repository provides the source codes for applying DVS-Attacks on Dynamic Vision Sensors for Spiking Neural Networks, and for applying event-noise filters. If you used these results in your research, please refer to the paper
 ```
-A. Marchisio, G. Pira, M. Martina, G- Masera and M. Shafique, "DVS-Attacks: Adversarial Attacks on Dynamic Vision Sensors for Spiking Neural Networks," 2021 International Joint Conference on Neural Networks (IJCNN), Virtual Event, July 2021.
+A. Marchisio, G. Pira, M. Martina, G. Masera and M. Shafique, "DVS-Attacks: Adversarial Attacks on Dynamic Vision Sensors for Spiking Neural Networks," 2021 International Joint Conference on Neural Networks (IJCNN), Virtual Event, July 2021.
 ```
 ```
 @INPROCEEDINGS{Marchisio2021DVSAttacks,
