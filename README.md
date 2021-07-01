@@ -5,7 +5,7 @@ A. Marchisio, G. Pira, M. Martina, G. Masera and M. Shafique, "DVS-Attacks: Adve
 ```
 ```
 @INPROCEEDINGS{Marchisio2021DVSAttacks,
-  author={A. {Marchisio} and G. {Pira} and M. {Martina} and G- {Masera} and M. {Shafique}},
+  author={A. {Marchisio} and G. {Pira} and M. {Martina} and G. {Masera} and M. {Shafique}},
   booktitle={2021 International Joint Conference on Neural Networks (IJCNN)}, 
   title={DVS-Attacks: Adversarial Attacks on Dynamic Vision Sensors for Spiking Neural Networks}, 
   year={2021},
